@@ -1,6 +1,6 @@
 📊 Desafio de Classificação da [TERA](https://somostera.com/)
 
-Este desafio é parte da minha formação na pós graduação de [Data Science & Machine Learning](https://somostera.com/cursos/data-science-machine-learning) da TERA.
+Este desafio é parte da minha formação na pós-graduação de [Data Science & Machine Learning](https://somostera.com/cursos/data-science-machine-learning) da TERA.
 
 ## 🧑🏼‍🔬 Sobre o Desafio.
 
@@ -13,7 +13,7 @@ Desenvolver uma solução para um problema de classificação de transações de
 - Parte 2: Tratamento de dados.
   - Definir algumas regras de negócio para dividir dados em categorias, aplicar feature engineering e preparar os dados para os cálculos do modelo.
 - Parte 3: Treinar e aplicar ML.
-  - Separar os dados em teste e treino e inserí-los nos modelos de machine learning utilizados para solucionar este problema.
+  - Separar os dados em teste e treino e inseri-los nos modelos de machine learning utilizados para solucionar este problema.
 - Parte 4: Melhorar a solução.
   - Alterar parâmetros e técnicas utilizadas para melhorar o modelo que teve o melhor desempenho e obter os resultados finais.
 
@@ -29,7 +29,7 @@ Os dados estão relacionados a transações com cartão de crédito, que possem 
 * Saldo depois da transação de quem recebeu
 * Quantidade transacionada
 * Se é fraude ou não [target]
-* se foi marcada como fraude (variável sintetica criada através do conhecimento do negócio, que marca como fraude p valores altos de transação)
+* se foi marcada como fraude (variável sintética criada através do conhecimento do negócio, que marca como fraude p valores altos de transação)
 
 Para mais informações pesquisar [neste trabalho](https://somostera.com/) do Kaggle.
 
@@ -37,5 +37,4 @@ Para mais informações pesquisar [neste trabalho](https://somostera.com/) do Ka
 
 ## 🎯 Objetivo do estudo
 
-Criar uma modelo que consiga classificar com precisão e baixa latência uma transação no momento em que ela foi feita. No notebook disponibilizado neste repositório tem a parte de contextualização
-do problema onde é possível entender todo ciclo da solução e as particularidades deste desenvolvimento.
+Criar uma modelo que consiga classificar com precisão e baixa latência uma transação no momento em que ela foi feita. No notebook disponibilizado neste repositório existe a parte de contextualização do problema onde é possível entender todo ciclo da solução e as particularidades deste desenvolvimento.
